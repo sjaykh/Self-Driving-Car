@@ -100,8 +100,7 @@ sudo /etc/init.d/hostname.sh
 sudo reboot
 
 ```
-You should now be able to log into your Pi like so:
-
+You should now be able to log into your Pi like so: 
 ```
 ssh pi@ryanzotti.local
 ```
